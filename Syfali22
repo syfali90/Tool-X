@@ -1,0 +1,93 @@
+Welcome to Termux!
+
+Wiki:            https://wiki.termux.com
+Community forum: https://termux.com/community
+Gitter chat:     https://gitter.im/termux/termux
+IRC channel:     #termux on freenode
+
+Working with packages:
+
+ * Search packages:   pkg search <query>
+ * Install a package: pkg install <package>
+ * Upgrade packages:  pkg upgrade
+
+Subscribing to additional repositories:
+
+ * Root:     pkg install root-repo
+ * Unstable: pkg install unstable-repo
+ * X11:      pkg install x11-repo
+
+Report issues at https://termux.com/issues
+
+$ Payload..
+Payload..: command not found
+$ ./ngrok tcp 4444.
+bash: ./ngrok: No such file or directory
+$ sdcard..
+sdcard..: command not found
+$ mv..
+No command mv.. found, did you mean:
+ Command mv in package coreutils
+$ use exploit/multi/handler..
+No command use found, did you mean:
+ Command bsh in package beanshell
+ Command as in package binutils
+ Command ls in package coreutils
+ Command sh in package dash
+ Command ssh in package dropbear
+ Command dte in package dte
+ Command gs in package ghostscript
+ Command joe in package joe
+ Command joe in package jupp
+ Command ksu in package krb5
+ Command psl in package libpsl
+ Command ksh in package loksh
+ Command pee in package moreutils
+ Command uz in package mtools
+ Command tset in package ncurses
+ Command toe in package ncurses-utils
+ Command ne in package ne
+ Command ssh in package openssh
+ Command sem in package parallel
+ Command ode in package plotutils from the x11-repo repository
+ Command ps in package procps
+ Command gie in package proj
+ Command fuser in package psmisc
+ Command uic in package qt5-base from the x11-repo repository
+ Command sv in package runit
+ Command rush in package rush
+ Command psc in package sc
+ Command sed in package sed
+ Command sl in package sl
+ Command gst in package smalltalk from the unstable-repo repository
+ Command st in package st from the x11-repo repository
+ Command sr in package surfraw from the unstable-repo repository
+ Command ts in package task-spooler
+ Command su in package termux-tools
+ Command tie in package texlive-bin
+ Command sn in package tin-summer
+ Command tsu in package tsu
+ Command uget in package uget from the x11-repo repository
+ Command ul in package util-linux
+ Command uux in package uucp
+ Command xsel in package xsel from the x11-repo repository
+ Command zsh in package zsh
+$ set payload
+$ android/meterpreter/reverse_tcp
+bash: android/meterpreter/reverse_tcp: No such file or directory
+$  set lhost. aydah8861@gmail.com..
+$ $exti.
+bash: .: filename argument required
+.: usage: . filename [arguments]
+$ chmod +x *
+chmod: cannot access '*': No such file or directory
+$ cd Payloadalsharabi
+bash: cd: Payloadalsharabi: No such file or directory
+$ bash Payloadalsharabi.sh
+bash: Payloadalsharabi.sh: No such file or directory
+$
+$ syfali90
+syfali90: command not found
+$
+$
+Display all 435 possibilities? (y or n)
